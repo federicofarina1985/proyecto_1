@@ -1,7 +1,5 @@
-
-
 /* ESTILOS DEL HEADER */
-header{
+header {
     display: flex;
 }
 
@@ -30,6 +28,7 @@ nav {
     width: 500px;
     box-sizing: border-box;
     justify-content: center;
+
 
 }
 
@@ -60,6 +59,8 @@ h2 {
 /* ESTOS SON LOS ESTILOS H3 TOTALES */
 h3 {
     color: darkslateblue;
+    text-transform: uppercase;
+
 
 }
 
@@ -86,3 +87,6 @@ h3 {
     box-sizing: border-box;
 
 }
+
+/* ESTOS SON LOS ESTILOS DE HOJA 2 */
+
